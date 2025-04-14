@@ -11,7 +11,14 @@
     margin: 0 auto;
     padding: 0 15px;
 }
-.header{
+
+.header {
     background-color: #F2CEDA;
     height: 860px;
+}
+
+.rustam{
+    display: flex;
+    
+
 }
