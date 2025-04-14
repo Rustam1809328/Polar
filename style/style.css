@@ -17,8 +17,22 @@
     height: 860px;
 }
 
+
 .rustam{
     display: flex;
     
 
+}
+.polar_end{
+    background-color: green;
+    max-width: 867px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.polar_card{
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
